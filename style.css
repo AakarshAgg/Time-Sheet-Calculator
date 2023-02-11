@@ -1,0 +1,21 @@
+td input {
+  margin: 4px 0px;
+  width: 3rem;
+  padding: 0px 0px;
+  text-align: center;
+}
+td select {
+  margin: 0px 4px;
+  width: auto;
+  padding: 2px 3px;
+}
+.but{
+display:flex;
+margin:-5px 5px;
+}
+.but button{
+  margin:0px 5px;
+}
+.but .sz {
+  font-size: 14px;
+}
